@@ -1,0 +1,11 @@
+article {
+  background-color: white;
+  padding: 40px;
+  border-radius: 8px;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+  margin: 10px;
+}
+
+h2, p, span {
+  color: black;
+}
